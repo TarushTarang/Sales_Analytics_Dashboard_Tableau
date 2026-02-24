@@ -30,7 +30,7 @@ To analyze sales data and identify:
 - Revenue peaked around 2018 before showing fluctuations.
 - Revenue is highly concentrated among top customers.
 - Certain product categories consistently outperform others.
-- 
+  
 ## Tools & Technologies
 - SQL (Data Extraction)
 - Tableau (Data modeling, joins, calculated fields, visualization)
