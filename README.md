@@ -32,8 +32,8 @@ To analyze sales data and identify:
 - Certain product categories consistently outperform others.
 - 
 ## Tools & Technologies
-- Tableau (Data Visualization & Joins)
 - SQL (Data Extraction)
+- Tableau (Data modeling, joins, calculated fields, visualization)
 
-  ## Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](images/dashboard.png)
